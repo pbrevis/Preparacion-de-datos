@@ -1,4 +1,4 @@
-### Caso 3: Preparación de datos
+### Preparación de datos
 
 Este repositorio contiene códigos de programación en lenguaje R para preparar datos previo al mapeo genético de una especies vegetal tetraploide.
 
